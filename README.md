@@ -1,10 +1,10 @@
-### Hi,I am Sejyoti!
 
-<!
 
-A strong understanding of biology and programming, as well as the ability to manage cloud platform with customer service knowledge and the most recent developments in data analysis.
+<h1 align "centre"> Hi ,I am Sejyoti </h1>
 
-https://www.linkedin.com/in/sejyoti-chakraborty-2124b519b/
+<h2 align = "center"> A strong understanding of biology and programming, as well as the ability to manage cloud platform with customer service knowledge and the most recent developments in data analysis </h2>
+
+
 
 
 
