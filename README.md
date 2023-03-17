@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi, I'm Sejyoti </h1>
 
-<h2 align="center"> A biologist with a strong programming background and expertise in data analysis, as well as experience in managing cloud platforms and customer service. </h2>
+<h2 align="center"> A Bioinformatician with a strong programming background and expertise in data analysis, as well as experience in managing cloud platforms and customer service. </h2>
 
 
 
