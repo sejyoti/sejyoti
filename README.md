@@ -1,5 +1,5 @@
-<img src="https://www.python.org/static/img/python-logo.png" alt="Python Logo" width="30" height="30">
-<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R Logo" width="30" height="30">
+
+
 <img src="https://shiny.rstudio.com/tutorial/walkthrough/images/logo.png" alt="R/Shiny Logo" width="30" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Sqlite-square-icon.svg" alt="SQL Logo" width="30" height="30">
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker Logo" width="30" height="30">
