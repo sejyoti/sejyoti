@@ -1,4 +1,6 @@
-![Python Logo](path_to_python_logo.png) ![R Logo](path_to_r_logo.png)![SQL Logo](path_to_sql_logo.png)
+![Python Logo](path_to_python_logo.png) 
+![R Logo](path_to_r_logo.png)
+![SQL Logo](path_to_sql_logo.png)
 <h1 align="center"> </
 
 
