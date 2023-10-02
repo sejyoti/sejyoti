@@ -1,6 +1,12 @@
-![Python Logo](path_to_python_logo.png) 
-![R Logo](path_to_r_logo.png)
-![SQL Logo](path_to_sql_logo.png)
+![Python Logo](https://www.python.org/static/img/python-logo.png)
+![R Logo](https://www.r-project.org/logo/Rlogo.svg)
+![R/Shiny Logo](https://shiny.rstudio.com/tutorial/walkthrough/images/logo.png)
+![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/9/92/Sqlite-square-icon.svg)
+![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
+![Conda Logo](https://conda.io/en/latest/_images/conda_logo.svg)
+![Nextflow Logo](https://www.nextflow.io/img/logo.svg)
+![Groovy Logo](https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.png)
+![Advanced Excel Logo](https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/08/Excel-2021-001.png)
 <h1 align="center"> </
 
 
