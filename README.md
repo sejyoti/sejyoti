@@ -1,12 +1,12 @@
-![Python Logo](https://www.python.org/static/img/python-logo.png)
-![R Logo](https://www.r-project.org/logo/Rlogo.svg)
-![R/Shiny Logo](https://shiny.rstudio.com/tutorial/walkthrough/images/logo.png)
-![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/9/92/Sqlite-square-icon.svg)
-![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
-![Conda Logo](https://conda.io/en/latest/_images/conda_logo.svg)
-![Nextflow Logo](https://www.nextflow.io/img/logo.svg)
-![Groovy Logo](https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.png)
-![Advanced Excel Logo](https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/08/Excel-2021-001.png)
+<img src="https://www.python.org/static/img/python-logo.png" alt="Python Logo" width="30" height="30">
+<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R Logo" width="30" height="30">
+<img src="https://shiny.rstudio.com/tutorial/walkthrough/images/logo.png" alt="R/Shiny Logo" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Sqlite-square-icon.svg" alt="SQL Logo" width="30" height="30">
+<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker Logo" width="30" height="30">
+<img src="https://conda.io/en/latest/_images/conda_logo.svg" alt="Conda Logo" width="30" height="30">
+<img src="https://www.nextflow.io/img/logo.svg" alt="Nextflow Logo" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.png" alt="Groovy Logo" width="30" height="30">
+<img src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/08/Excel-2021-001.png" alt="Advanced Excel Logo" width="30" height="30">
 <h1 align="center"> </
 
 
