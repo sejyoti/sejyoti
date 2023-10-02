@@ -1,7 +1,5 @@
 
-<h1 align="center"> Hi, I'm Sejyoti </h1>
-
-<h2 align="center">A Bioinformatics Professional with Profound Programming Acumen, Data Analysis Expertise, Cloud Platform Management, and Exceptional Customer Service Skills.</h2>
+<h1 align="center"> Hi, I'm Sejyoti </
 
 
 
