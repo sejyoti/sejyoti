@@ -1,6 +1,6 @@
 # Sejyoti Chakraborty
 
-## Bioinformaticis software engineer
+## Bioinformatics software engineer
 
 I am a bioinformatician with a passion for learning and staying on top of new developments in this fast-paced tech world.
 
