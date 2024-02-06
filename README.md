@@ -16,7 +16,6 @@ Previously I was working as a Bioinformatics Engineer with a passion for learnin
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Conda](https://img.shields.io/badge/-Conda-4B8BBE?style=flat&logo=conda-forge&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/-Nextflow-E8831D?style=flat&logo=nextflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F9A03C?style=flat)
 ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-0C5176?style=flat)
 ![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-41A043?style=flat)
 ![Documentation](https://img.shields.io/badge/-Documentation-0C5176?style=flat)
