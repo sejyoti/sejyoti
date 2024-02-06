@@ -2,7 +2,7 @@
 
 ## Product Manager
 
-Previously I was working as a bioinformatician with a passion for learning and staying on top of new developments in this fast-paced tech world.Now,Working as a Product Manager with the understanding of Company structor,Business impacts,Customer relationship,technical documentation for frontend and backend team with updated technologies,Product Blogs and Contents.
+Previously I was working as a Bioinformatics Engineer with a passion for learning and staying on top of new developments in this fast-paced tech world.Now,Working as a Product Manager with the understanding of Company structor,Business impacts,Customer relationship,technical documentation for frontend and backend team with updated technologies,Product Blogs and Contents.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
