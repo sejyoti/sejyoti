@@ -43,7 +43,6 @@ I focus on expanding my skills and knowledge every single day. I stay up-to-date
 - R
 - html
 - css
-- JS
 - Docker
 - Amazon s3
 - Conda
