@@ -2,7 +2,21 @@
 
 ## Product Manager
 
-Previously I was working as a Bioinformatics Engineer with a passion for learning and staying on top of new developments in this fast-paced tech world.Now,working as a Product Manager with the understanding of company structure,business impacts on start up environment,customer relationship,technical documentation for frontend and backend team with updated technologies.
+Previously I was working as a data analyst with a passion for learning and staying on top of new developments in this fast-paced tech world.Now,working as a Product Manager with the understanding of company structure,business impacts on start up environment,customer relationship,technical documentation for frontend and backend team with updated technologies.
+
+As a Product Manager at Boltzmann.co, I have been involved in various innovative projects leveraging cutting-edge AI technologies. Here are four key products so far : 
+
+Product 1: BoltBio
+AI-driven solutions for multi-omics analysis and identifying potential therapeutic targets.
+https://boltbio.boltzmann.co/
+
+Product 2: BoltPro
+Advanced AI tools for large molecule design and development.
+https://boltpro.boltzmann.co/login
+
+Product 3: BoltChem
+Small molecule design using Generative AI.
+https://boltchem.com/
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -26,11 +40,12 @@ I focus on expanding my skills and knowledge every single day. I stay up-to-date
 
 ## Key Skills
 - Python
-- R 
-- Machine Learning
-- Data Modeling
-- Bioinformatics Pipelines
+- R
+- html
+- css
+- JS
 - Docker
+- Amazon s3
 - Conda
 - Nextflow
 
