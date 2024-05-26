@@ -39,14 +39,23 @@ https://boltchem.com/
 I focus on expanding my skills and knowledge every single day. I stay up-to-date on the latest bioinformatics tools and techniques so that I can provide the most value in analyzing biological data.
 
 ## Key Skills
-- Python
-- R
-- html
-- css
-- Docker
-- Amazon s3
-- Conda
-- Nextflow
+SaaS-Experience
+Product-Launch
+UI/UX-Design
+Portfolio
+Product-Lifecycle
+Wireframing
+Sales-Funnels
+User-Psychology
+Digital-Marketing
+Analytical
+Problem-Solving
+Data-Driven
+Leadership
+Communication
+Team-Motivation
+Stakeholder-Collaboration
+Agile-Methodologies
 
 ## About Me 
 Let's connect!
