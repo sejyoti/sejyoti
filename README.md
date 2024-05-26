@@ -39,23 +39,18 @@ https://boltchem.com/
 I focus on expanding my skills and knowledge every single day. I stay up-to-date on the latest bioinformatics tools and techniques so that I can provide the most value in analyzing biological data.
 
 ## Key Skills
-SaaS-Experience
-Product-Launch
-UI/UX-Design
-Portfolio
-Product-Lifecycle
-Wireframing
-Sales-Funnels
-User-Psychology
-Digital-Marketing
-Analytical
-Problem-Solving
-Data-Driven
-Leadership
-Communication
-Team-Motivation
-Stakeholder-Collaboration
-Agile-Methodologies
+-SaaS-Experience
+-Waterfall and Agile-Methodologies
+-Product-Launch
+-UI/UX-Design
+-PDLC
+-Wireframing
+-User-Psychology
+-Data-Driven decision making
+-Leadership
+-Communication
+-Team-Motivation
+-Stakeholder-Collaboration
 
 ## About Me 
 Let's connect!
