@@ -22,7 +22,6 @@ https://boltbio.boltzmann.co/
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat)
 ![Power%20BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat)
 ![Wireframing](https://img.shields.io/badge/-Wireframing-9B59B6?style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
