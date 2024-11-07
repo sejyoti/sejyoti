@@ -1,22 +1,15 @@
 # Sejyoti Chakraborty
 
 ## Product Manager
+3 years of experience in developing web products and a strong background in technical product management and data analysis within a B2B SaaS healthcare platform.As a Product Manager at Boltzmann.co, I have been involved in various innovative projects leveraging cutting-edge AI technologies. Here are four key products so far : 
 
-Previously I was working as a data analyst with a passion for learning and staying on top of new developments in this fast-paced tech world.Now,working as a Product Manager with the understanding of company structure,business impacts on start up environment,customer relationship,technical documentation for frontend and backend team with updated technologies.
-
-As a Product Manager at Boltzmann.co, I have been involved in various innovative projects leveraging cutting-edge AI technologies. Here are four key products so far : 
-
-Product 1: BoltBio
-AI-driven solutions for multi-omics analysis and identifying potential therapeutic targets.
-https://boltbio.boltzmann.co/
-
-Product 2: BoltPro
-Advanced AI tools for large molecule design and development.
-https://boltpro.boltzmann.co/login
-
-Product 3: BoltChem
+Product 1: BoltChem
 Small molecule design using Generative AI.
 https://boltchem.com/
+
+Product 2: BoltBio
+AI-driven solutions for multi-omics analysis and identifying potential therapeutic targets.
+https://boltbio.boltzmann.co/
 
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat)
