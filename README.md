@@ -11,7 +11,11 @@ Product 2: BoltBio
 AI-driven solutions for multi-omics analysis and identifying potential therapeutic targets.
 https://boltbio.boltzmann.co/
 
-
+![PDLC](https://img.shields.io/badge/-PDLC-F24E1E?style=flat)
+![GENAI](https://img.shields.io/badge/-GENAI-F24E1E?style=flat)
+![SuccessMetrices](https://img.shields.io/badge/-SuccessMetrices-F24E1E?style=flat)
+![ProductRoadmap](https://img.shields.io/badge/-ProductRoadmap-F24E1E?style=flat)
+![KPI-monitoring](https://img.shields.io/badge/-KPImonitoring-F24E1E?style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat)
 ![Agile%20Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-FF6347?style=flat)
 ![Data%20Driven%20Decision%20Making](https://img.shields.io/badge/-Data%20Driven%20Decision%20Making-4682B4?style=flat)
