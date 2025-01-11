@@ -1,6 +1,6 @@
 # Sejyoti Chakraborty
 
-## You can call me a Data science enthsiast/Statistician/Bioinformatician
+## You can call me a Data science enthusiast/Statistician/Bioinformatician
 3 years experience in data analysis where I work for research informatics in health/pharma/life science within a B2B SaaS healthcare platform.As a Product Manager at Boltzmann.co, I have been involved in developing product from concept to launch with leveraging cutting-edge AI technologies. Here are four key products so far : 
 
 Product 1: BoltChem
