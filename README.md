@@ -11,23 +11,9 @@ Product 2: BoltBio
 AI-driven solutions for multi-omics analysis and identifying potential therapeutic targets.
 https://boltbio.boltzmann.co/
 
-![PDLC](https://img.shields.io/badge/-PDLC-F24E1E?style=flat)
 ![GENAI](https://img.shields.io/badge/-GENAI-F24E1E?style=flat)
-![SuccessMetrices](https://img.shields.io/badge/-SuccessMetrices-F24E1E?style=flat)
-![ProductRoadmap](https://img.shields.io/badge/-ProductRoadmap-F24E1E?style=flat)
-![KPI-monitoring](https://img.shields.io/badge/-KPImonitoring-F24E1E?style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat)
 ![Agile%20Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-FF6347?style=flat)
 ![Data%20Driven%20Decision%20Making](https://img.shields.io/badge/-Data%20Driven%20Decision%20Making-4682B4?style=flat)
-![Market%20Research](https://img.shields.io/badge/-Market%20Research-32CD32?style=flat)
-![Customer%20Pain%20Points](https://img.shields.io/badge/-Customer%20Pain%20Points-FF4500?style=flat)
-![Stakeholder%20Management](https://img.shields.io/badge/-Stakeholder%20Management-8A2BE2?style=flat)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat)
-![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat)
-![Power%20BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat)
-![Wireframing](https://img.shields.io/badge/-Wireframing-9B59B6?style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
